@@ -1,0 +1,23 @@
+{
+  "name": "atlantation",
+  "workspaces": [
+    "workspace-a"
+  ],
+  "version": "1.0.0",
+  "description": "a SSR framework for Vue3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlantisjs/atlantation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlantisjs/atlantation/issues"
+  },
+  "homepage": "https://github.com/atlantisjs/atlantation#readme"
+}
