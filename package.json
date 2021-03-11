@@ -1,0 +1,16 @@
+{
+  "name": "atlantation",
+  "version": "1.0.0",
+  "description": "a lightweight、fast SSR framework for Vue3 base on vite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlantisjs/atlantation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlantisjs/atlantation/issues"
+  },
+  "homepage": "https://github.com/atlantisjs/atlantation#readme"
+}
